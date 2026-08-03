@@ -1,6 +1,6 @@
 # 👨🏽‍💻 José Luiz
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo José Luiz, tenho 23 anos e sou de São Paulo (SP). Concluí o Ensino Médio na E.E. Governador Paulo Sarasate, com formação técnica em Informática, onde desenvolvi meus primeiros fundamentos em tecnologia, lógica de programação e resolução de problemas.
 
