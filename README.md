@@ -1,14 +1,14 @@
 # 👨🏽‍💻 José Luiz
 
-**`Desenvolvedor Full-Stack`**
+**Desenvolvedor Full-Stack**
 
-Me chamo José Luiz, tenho 23 anos e sou de São Paulo (SP). Concluí o Ensino Médio na E.E. Governador Paulo Sarasate, com formação técnica em Informática, onde desenvolvi meus primeiros fundamentos em tecnologia, lógica de programação e resolução de problemas.
+Me chamo José Luiz, tenho 23 anos e sou de São Paulo (SP). Concluí o Ensino Médio na E.E. Governador Paulo Sarasate, com formação técnica em Informática, onde tive meus primeiros contatos com tecnologia, lógica de programação e resolução de problemas.
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com previsão de conclusão em 2027, aprofundando meus conhecimentos em desenvolvimento de software, engenharia de sistemas e boas práticas de programação.
+Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com previsão de conclusão em 2027. Tenho direcionado meus estudos para o desenvolvimento Full-Stack, aprimorando meus conhecimentos em tecnologias Front-End e Back-End, boas práticas de programação e desenvolvimento de aplicações web.
 
-Tenho direcionado minha trajetória para a área de desenvolvimento web por meio de estudos contínuos, projetos práticos e certificações complementares em tecnologia, buscando evolução constante e consolidação de uma base sólida como desenvolvedor.
+Busco consolidar minha formação por meio de estudos contínuos, projetos práticos e certificações complementares, aplicando os conhecimentos adquiridos na construção de projetos e na evolução das minhas habilidades como desenvolvedor.
 
-Compartilho meus projetos e minha evolução profissional através do meu LinkedIn: [José Luiz](https://www.linkedin.com/in/jose-luiz-jr03/), onde publico meus projetos web e atividades acadêmicas.
+Compartilho meus projetos e minha evolução profissional no [LinkedIn](https://www.linkedin.com/in/jose-luiz-jr03/), onde publico trabalhos desenvolvidos e atividades acadêmicas.
 
 
 <p align="left">
