@@ -63,11 +63,11 @@ Também estudo APIs REST, bancos de dados SQL e NoSQL, POO e metodologias ágeis
 - **Missão Programação com IA do Zero** (HTML, CSS, JavaScript e Inteligência Artificial): DevClub (julho de 2026)
 - **Boas vindas ao Bootcamp Bradesco - GenAI, Dados & Cyber**: Bradesco + DIO (junho de 2026 · 1h)
 - **Next.js, React.js, Node.js, JavaScript e Java 2025**: Udemy (junho de 2026 · 13,5h)
-- **Tecnologia, Criatividade e Estratégia: As Carreiras que Transformam Inovação em Impacto**: FIAP + Alura, Semana Carreira Tech (maio de 2026 · 1h)
-- **Da Programação aos Robôs: As Engenharias que Constroem o Futuro da Tecnologia Agora**: FIAP + Alura, Semana Carreira Tech (maio de 2026 · 1h)
-- **Heróis Digitais da Nova Era: Quem Defende o Mundo Digital dos Ataques Invisíveis?**: FIAP + Alura, Semana Carreira Tech (maio de 2026 · 1h)
-- **Inteligência Artificial, Dev e Dados: Como o Futuro Está Sendo Programado**: FIAP + Alura, Semana Carreira Tech (maio de 2026 · 1h)
-- **O Futuro é Tech: Descubra Qual Carreira dá Match com Você**: FIAP + Alura, Semana Carreira Tech (maio de 2026 · 1h)
+- **Tecnologia, Criatividade e Estratégia: As Carreiras que Transformam Inovação em Impacto**: FIAP + Alura, Semana Carreira Tech (maio de 2026)
+- **Da Programação aos Robôs: As Engenharias que Constroem o Futuro da Tecnologia Agora**: FIAP + Alura, Semana Carreira Tech (maio de 2026)
+- **Heróis Digitais da Nova Era: Quem Defende o Mundo Digital dos Ataques Invisíveis?**: FIAP + Alura, Semana Carreira Tech (maio de 2026)
+- **Inteligência Artificial, Dev e Dados: Como o Futuro Está Sendo Programado**: FIAP + Alura, Semana Carreira Tech (maio de 2026)
+- **O Futuro é Tech: Descubra Qual Carreira dá Match com Você**: FIAP + Alura, Semana Carreira Tech (maio de 2026)
 
 ## Inglês
 
