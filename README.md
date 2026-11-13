@@ -16,7 +16,7 @@ Tenho 23 anos e estou construindo minha carreira em desenvolvimento de software,
 
 Antes de migrar para tecnologia, trabalhei com negociação e recuperação de crédito, onde cumpri 100% das metas de desempenho. Dessa fase levei a rotina de lidar com clientes e a disciplina de trabalhar com metas.
 
-Busco minha primeira oportunidade como desenvolvedor **Júnior** em Full-Stack, Front-End ou Back-End.
+Busco minha primeira oportunidade como desenvolvedor em vaga de **estágio** ou **Júnior**, em Full-Stack, Front-End ou Back-End.
 
 ## Projetos em destaque
 
